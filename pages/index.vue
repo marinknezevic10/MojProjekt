@@ -1,7 +1,8 @@
 <template>
-  <Tutorial />
+<h1>Hi</h1>
+  
 </template>
-<h1>Zdravo</h1>
+
 <script>
 export default {};
 </script>
