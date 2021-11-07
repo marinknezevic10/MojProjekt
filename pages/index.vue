@@ -5,7 +5,7 @@
   </div>
 </template>
 <script>
-import PopularMovies from "/components/PopularMovies";
+import PopularMovies from "../components/PopularMovies";
 export default {
   name: "App",
   components: {
